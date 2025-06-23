@@ -51,7 +51,6 @@
     ```bash
     pip install -r requirements.txt
     ```
-    *(You should create a `requirements.txt` file with libraries like `torch`, `numpy`, `matplotlib`, `traci`)*
 
 ### Usage
 
