@@ -1,0 +1,18 @@
+==================== 评估仪表盘 ====================
+模型: D:\project\RL_sumo\MARL_PPO_SUMO_Optimized_best.pth
+总评估回合数: 20
+总车辆数: 14620
+
+--- 1. 系统效率 (System Efficiency) ---
+  平均通行成功率 (Success Rate): 85.77 %
+  平均通行时间 (Avg Travel Time): 75.13 s
+  系统吞吐量 (Throughput): 2999.60 辆/小时
+
+--- 2. 系统安全性 (System Safety) ---
+  总碰撞次数 (Total Collisions): 0
+  总紧急刹车次数 (Total Emergency Brakes): 0
+
+--- 3. 系统公平性 (System Fairness) ---
+  通行时间Jain公平指数 (Jain's Fairness Index): 0.8515
+      (指数越接近1，代表通行时间越公平)
+====================================================

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<routes>
+    <vType id="car" accel="2.6" decel="4.5" sigma="0.5" length="5" maxSpeed="30"/>
+
+    <flow id="main_flow" type="car" from="E0" to="E1" begin="0"  vehsPerHour = "3300"  departLane="random"/>
+    <flow id="ramp_flow" type="car" from="E_ramp" to="E1" begin="0"  vehsPerHour = "300"  departLane="random"/>
+</routes>
